@@ -1,10 +1,10 @@
 # Frontend
-Practica web realizada para mi primer pagina web.
+Web practice done for my first web page.
 
-Año de desarrollo: 2016/2017
+Year of development: 2016/2017
 
-Desarrollador: Martin Alexis Torrents
+Developer: Martin Alexis Torrents
 
-Planes a futuro sobre este proyecto: La idea es seguir adquiriendo conocimientos e ir mejorando el sitio web con algunos cursos de desarrollo durante el año 2021!
+Future plans on this project: The idea is to continue acquiring knowledge and improve the website with some development courses during the year 2021!
 
-Año de futuras mejoras del sitio: 2021/2022
+Year of future site improvements: 2021/2022
