@@ -1,7 +1,7 @@
 # Frontend
 Web practice done for my first web page.
 
-Year of development: 2016/2017
+Year of development: 2016
 
 Developer: Martin Alexis Torrents
 
