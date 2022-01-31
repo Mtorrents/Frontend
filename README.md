@@ -9,4 +9,3 @@ Future plans on this project: The idea is to continue acquiring knowledge and im
 
 Year of future site improvements: 2021/2022
 
-link of the beginning of the project of the year 2016: https://drive.google.com/drive/folders/0B0ROg1XRc296RWdGME1qMmp4LVE?resourcekey=0-1LX-QqPOZppj31O4u1dJpA
